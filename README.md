@@ -56,6 +56,7 @@ In the face of quantum computing advancements, traditional cryptographic systems
 
 2. Https Server Setup:
   - Configure your HTTPS server to support the Crystals-Kyber PQC algorithm. Refer to the HTTPS server documentation for detailed instructions.
+
 3. Establishing Secure Communication:
   - In your web application code, import the QuantumSafe-PQC-Plugin library.
   - Use the library to establish a secure connection with the HTTPS server, encrypt data, and handle responses.
