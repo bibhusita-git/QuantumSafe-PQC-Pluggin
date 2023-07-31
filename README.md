@@ -73,7 +73,7 @@ Special thanks to Ayan Chattopadhyay sir for his mentorship, feedback, and valua
 ## References
 1. [CRYSTALS-KYBER JavaScript](https://github.com/antontutoveanu/crystals-kyber-javascript): This Github Repository offers insights on the JavaScript implementation for client-side web browser applications and server-side backends in Node.js frameworks. 
 
-2. [Active Implementation of End-to-End Post-Quantum Encryption](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://eprint.iacr.org/2021/356.pdf): This paper paper provides in-depth information about the tried and tested construction for a quantum-resistant, end-to-endencryption scheme which has been implemented in a real-life online web application. 
+2. [Active Implementation of End-to-End Post-Quantum Encryption](https://eprint.iacr.org/2021/356): This paper paper provides in-depth information about the tried and tested construction for a quantum-resistant, end-to-endencryption scheme which has been implemented in a real-life online web application. 
 
 ## Work in Progress
 ⚠️ **Please Note:** QuantumSafe-PQC-Plugin is currently under active development and is not yet ready for production use. It is in the early stages of development, and significant changes may occur as we work towards its completion.
